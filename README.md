@@ -65,4 +65,6 @@ These insights can help educators and platforms design more effective and engagi
 
 ## Jupyter Notebook
 
-The full analysis, including code, visualizations, and step-by-step explanations, is available in the notebook included in this repository.
+The full analysis, including code, visualizations, and step-by-step explanations, is available in the notebook included in this repository:
+
+📄[udemy-data-analysis.ipynb](udemy-data-analysis.ipynb)
